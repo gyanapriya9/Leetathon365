@@ -7,7 +7,7 @@ From consistency to concept clarity, this repo will be your go-to guide for mast
 
 ## 🔥 Daily Commitment
 
-- ⏰ **10 problems a day**  
+- ⏰ **5 problems a day**  
 - 🧠 Flashcard-style logic explained **inside code as comments**  
 - 💻 Code in **Python / C++ / Java**  
 - ✅ No extra files – just clean, readable, and well-documented code  
